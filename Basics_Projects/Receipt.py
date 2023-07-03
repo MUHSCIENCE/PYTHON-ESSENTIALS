@@ -21,9 +21,9 @@ Computes the total charge for a customer's video rentals
 NEW_ARRIVALS = 3.00
 OLDIES = 2.00
 
-numberOfNights = int(input("Enter the number of nights: "))
 numOfNewTapes = int(input("Enter the number of New tapes: "))
 numOfOldies = int(input("Enter the number of old tapes: "))
+numberOfNights = int(input("Enter the number of nights: "))
 
 costOfNewArrivals = NEW_ARRIVALS * numOfNewTapes * numberOfNights
 costOfOldies = OLDIES * numOfOldies * numberOfNights
