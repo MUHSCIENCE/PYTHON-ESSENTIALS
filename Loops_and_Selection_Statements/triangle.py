@@ -9,7 +9,7 @@ CHECKS IF A TRIANGLE IS AN EQUILATERAL OR NOT
 3: Displays the output
 
 """
-#!/usr/bin/env python
+# !/usr/bin/env python
 a = int(input("Enter the side length: "))
 b = int(input("Enter the side length: "))
 c = int(input("Enter the side length: "))
