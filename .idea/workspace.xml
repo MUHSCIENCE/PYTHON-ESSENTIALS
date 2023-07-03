@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b1863a-0ca6-4e0a-8108-56f5785f3021" name="Changes" comment="learning basics">
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/ALEX_KAMAU.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Projects/kinetic-energy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Projects/light-year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Projects/minutes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PYTHON-ESSENTIALS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON-ESSENTIALS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics_Projects/Receipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics_Projects/Receipt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics_Projects/momentum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics_Projects/momentum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Programs/test7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Programs/test7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687355606735</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="learning basics">
+      <option name="closed" value="true" />
+      <created>1688382883156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688382883156</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
